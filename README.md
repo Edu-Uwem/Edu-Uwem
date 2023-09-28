@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Edu-Uwem
 - 👀 I’m interested in Data Analytics
-- 🌱 I’m currently learning SQL
 - 📫 How to reach me eduuwemu@gmail.com
 
 <!---
